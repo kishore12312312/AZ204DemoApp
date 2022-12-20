@@ -1,0 +1,7 @@
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\AZ204Webapp\AZ204Webapp\obj\Release\net6.0\PubTmp\Out\AZ204Webapp.exe
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\AZ204Webapp\AZ204Webapp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\AZ204Webapp\AZ204Webapp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\AZ204Webapp\AZ204Webapp\obj\Release\net6.0\PubTmp\Out\AZ204Webapp.dll
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\AZ204Webapp\AZ204Webapp\obj\Release\net6.0\PubTmp\Out\AZ204Webapp.deps.json
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\AZ204Webapp\AZ204Webapp\obj\Release\net6.0\PubTmp\Out\AZ204Webapp.runtimeconfig.json
+C:\Users\KishoreSM\OneDrive - CloudThat\Desktop\rep\AZ204Webapp\AZ204Webapp\obj\Release\net6.0\PubTmp\Out\AZ204Webapp.pdb
